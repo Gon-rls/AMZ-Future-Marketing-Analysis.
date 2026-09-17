@@ -2,8 +2,6 @@
 
 **AMZ Future** es un proyecto emprendedor centrado en la venta de productos sostenibles y biodegradables a través de Amazon, con logística de cero emisiones y embalaje reciclado como diferenciales clave frente a la competencia.
 
-📄 Documento completo: [`AMZ_Future_Plan_de_Marketing.docx`](./AMZ_Future_Plan_de_Marketing.docx)
-
 ## Equipo
 
 - **Gonzalo** — desarrollo íntegro del plan de marketing.
